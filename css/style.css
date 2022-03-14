@@ -124,7 +124,7 @@ body {
 .new-sound {
   font-family: "SF Pro Display", sans-serif;
   font-weight: 300;
-  font-size: 60px;
+  font-size: 6rem;
   color: #ffffff;
   top: 10%;
   left: 10%;
@@ -234,6 +234,35 @@ body {
   margin-top: 6rem;
   /* background-color: #0b7dda; */
 }
+.exclusive-item {
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  /* background-color: aqua; */
+}
+.card-width2 {
+  height: 100%px;
+  width: 295px;
+}
+.product-title {
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+}
+.product-meta {
+  font-family: "SF Pro Display", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #146cda;
+}
+/* .card-width1 {
+  height: 450px;
+  width: 295px;
+}
+.card-width {
+  width: 100%;
+  height: auto;
+} */
 .spcial-offer1 {
   font-family: "SF Pro Display", sans-serif;
   font-weight: 500;
@@ -246,7 +275,7 @@ body {
 .headphone {
   font-family: "SF Pro Display", sans-serif;
   font-weight: 300;
-  font-size: 80px;
+  font-size: 8rem;
   color: #ffffff;
   top: 20%;
   left: 10%;
@@ -264,14 +293,14 @@ body {
   width: 233px;
   border: none;
   border-radius: 32px;
-  font-size: 22px;
+  font-size: 2.2rem;
   letter-spacing: 3px;
   top: 70%;
   left: 10%;
 }
 .carousel-img {
   height: 100%;
-  width: 1200px;
+  width: 100%;
 }
 .best-saller3 {
   margin-bottom: 3rem;
@@ -288,7 +317,7 @@ body {
   width: 113px;
   height: 40px;
   border-radius: 22px;
-  font-size: 16px;
+  font-size: 1.6rem;
 }
 .container2 {
   margin-top: 3rem;
